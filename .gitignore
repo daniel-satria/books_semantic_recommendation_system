@@ -1,0 +1,10 @@
+.venv
+.gradio
+.vscode
+__pycache__
+
+*.csv
+*.txt
+
+data
+books_recommendation_vector
